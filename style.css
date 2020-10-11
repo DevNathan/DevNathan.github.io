@@ -338,31 +338,50 @@ footer span
 
 .elementContact:nth-child(1) 
 {
+<<<<<<< HEAD
 	text-align: center;
 	flex: 4;
+=======
+	flex: 2;
+>>>>>>> 83e45ae2a0b4771c75eca5a5aa48e85a2af142f7
 }
 
 .elementContact:nth-child(2)
 {
+<<<<<<< HEAD
 	text-align: center;
 	flex: 3;
+=======
+	flex: 1;
+>>>>>>> 83e45ae2a0b4771c75eca5a5aa48e85a2af142f7
 }
 
 .elementContact:nth-child(3)
 {
+<<<<<<< HEAD
 	text-align: center;
+=======
+>>>>>>> 83e45ae2a0b4771c75eca5a5aa48e85a2af142f7
 	flex: 0.8;
 }
 
 
 .elementContact:nth-child(1) img
 {
+<<<<<<< HEAD
 	width: 30%;
+=======
+	width: 20%;
+>>>>>>> 83e45ae2a0b4771c75eca5a5aa48e85a2af142f7
 }
 
 .elementContact:nth-child(2) img
 {
+<<<<<<< HEAD
 	width: 40%;
+=======
+	width: 30%;
+>>>>>>> 83e45ae2a0b4771c75eca5a5aa48e85a2af142f7
 	margin: auto;
 }
 
@@ -390,9 +409,15 @@ footer .coeur {
 
 .erreur404
 {
+<<<<<<< HEAD
 	font-size:2em;
 	text-align: center;
 	color:red;
+=======
+	font-size:4em;
+	text-align: center;
+	color:green;
+>>>>>>> 83e45ae2a0b4771c75eca5a5aa48e85a2af142f7
 }
 
 
