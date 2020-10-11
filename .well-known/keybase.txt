@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/devnath
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://devnathan.github.io
+  * I am devnath (https://keybase.io/devnath) on keybase.
+  * I have a public key ASBKuL5VysT1YVzS-2J_mjfllUokMcR-ryMiJk3kGePpZQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206a862375c1c3bbd837a35e1306c76e9604aedb87fc6d7a3f02827d0ba3836ce30a",
+      "host": "keybase.io",
+      "kid": "01204ab8be55cac4f5615cd2fb627f9a37e5954a2431c47eaf2322264de419e3e9650a",
+      "uid": "743b2c6aa2f3ef772d88e4eaf2882c19",
+      "username": "devnath"
+    },
+    "merkle_root": {
+      "ctime": 1602447463,
+      "hash": "0c07d7ef071782a2618c20626288a1417d5a66006e724b44ff014162299c2ed861a6c478f3acbc69c1d3846b13d76e619311609959466c51c991df1744e4105b",
+      "hash_meta": "456724abb51742729c1717c4f14202b79c304ce165bb370c0217f4d5dc9aec46",
+      "seqno": 17802189
+    },
+    "service": {
+      "entropy": "x7ycaY07e20OBj6+qsMioNTp",
+      "hostname": "devnathan.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1602447483,
+  "expire_in": 504576000,
+  "prev": "c4066137a212304c37b7d4731c5eb8c26b006a01691ca111f398d1aefdc60441",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSri+VcrE9WFc0vtif5o35ZVKJDHEfq8jIiZN5Bnj6WUKp3BheWxvYWTESpcCE8QgxAZhN6ISMEw3t9RzHF64wmsAagFpHKER85jRrv3GBEHEIHbZ+gpcDy2SftAxx3N3omt7QA68WR9riL2ve5i78yPnAgHCo3NpZ8RAfgDMRy6Ockd3iY0o7mnYEAx+rXam6jRS6h/vQEDpluJNCUODcb8hVscb1MMMVarVVASW1vSFZmCg/wilbI1jCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIB12Lez6yOP7qJ09mBLwE0cSOuKKec81VlnpXtGXJ6Mmo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/devnath
+
+==================================================================
